@@ -1,9 +1,9 @@
 #include<stdio.h>
 
 int main(){
-    int x,y,z,a,L;
+    int x,y,z,a,B;
 scanf("%d %d %d %d",&x,&y,&z,&a);
-L=x*y*z*a;
-printf("%d",L);
+B=x*y*z*a;
+printf("%d",B);
 return 0;
 }
